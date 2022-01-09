@@ -1,7 +1,7 @@
 {
   "concordiaPlugin": true,
   "name": "concordialang-fake-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fake plug-in",
   "license": "MIT",
   "author": "Thiago Delgado Pinto",
