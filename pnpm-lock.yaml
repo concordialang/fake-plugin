@@ -1,13 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  concordialang-plugin: ^1.3.1
+  concordialang-plugin: ^1.3.2
   concordialang-types: ^2.1.6
   rimraf: ^3.0.2
   typescript: ^4.5.4
 
 dependencies:
-  concordialang-plugin: 1.3.1
+  concordialang-plugin: 1.3.2
   concordialang-types: 2.1.6
 
 devDependencies:
@@ -15,10 +15,6 @@ devDependencies:
   typescript: 4.5.4
 
 packages:
-
-  /@types/node/8.10.66:
-    resolution: {integrity: sha512-tktOkFUA4kXx2hhhrB8bIFb5TbwzS4uOhKEmwiD+NoiL0qtP2OQ9mFldbgD4dV1djrlBYP6eBuQZiWjuHUpqFw==}
-    dev: false
 
   /balanced-match/1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
@@ -35,11 +31,10 @@ packages:
     resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
     dev: true
 
-  /concordialang-plugin/1.3.1:
-    resolution: {integrity: sha512-Y2p8Z37snV4Ic5jn8GpVvHSlAnihWWGDPrgg0ibKlJ1kfgr3ul4WAxLWkfGWzO97aBCS09Q3AA5PXbi4UfLDJg==}
-    engines: {node: '>=10'}
+  /concordialang-plugin/1.3.2:
+    resolution: {integrity: sha512-nVAeer22LekvQg5GgUWBtlGwDues/TAONQQTDox+TbD/iw6gnlsqea2j15ljSYdcUFhji12Ow62DRPQdUQi7Dw==}
+    engines: {node: '>=12.20'}
     dependencies:
-      '@types/node': 8.10.66
       concordialang-types: 2.1.6
     dev: false
 
