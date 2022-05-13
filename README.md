@@ -4,6 +4,9 @@
 
 > 🔌 Fake Concordia Compiler plug-in
 
+
+>> TESTE DE ALGO SENDO ACRESCENTADO !!!
+
 This is an example on how to create a small Concordia Compiler plug-in that works on version `2.0.0-alpha.19` or later.
 
 See [concordialang-plugin](https://github.com/thiagodp/concordialang-plugin) for more information on how to create a plug-in.
